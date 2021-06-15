@@ -1,0 +1,4 @@
+ADDI $t0,$t2,200
+ADDI $t2,$t2,500
+SUB $t0,$t2,$t0
+SUB $t2,$t2,$t0
